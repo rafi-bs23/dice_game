@@ -1,5 +1,5 @@
 # dice_game
-
+#https://rafi-bs23.github.io/dice_game/
 
 Pig Game: This is a simple game where two players take turns rolling a dice. 
 Each player's score is the sum of all the dice rolls they have made during their turn.
